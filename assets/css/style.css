@@ -200,21 +200,6 @@ nav ul li {
 
 /* Projects section ends */
 
-/* Social buttons */
-.socials {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  right: 1%;
-  bottom: 50%;
-}
-
-.socicon {
-  width: 2rem;
-  height: 2rem;
-}
-/* Social button ends */
-
 /* Scroll to top button */
 .scroll-up {
   position: fixed;
